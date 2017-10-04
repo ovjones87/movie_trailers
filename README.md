@@ -5,4 +5,4 @@
 <li> Enjoy the website and all available trailers.</li>
  </ul>
 
-<a href><img class="smaller-image thick-green-border" alt="This is a screenshot of the landing Page. " src="https://photos.app.goo.gl/ByQbXzg8NmyzgIrA2"></a>
+<a href><img alt="This is a screenshot of the landing Page. " src="https://photos.app.goo.gl/ByQbXzg8NmyzgIrA2"></a>
